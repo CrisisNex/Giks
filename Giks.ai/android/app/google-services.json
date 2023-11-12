@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1091069377781",
+    "project_id": "gonullu-ihtiyac",
+    "storage_bucket": "gonullu-ihtiyac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091069377781:android:9ea5ab063e9098885f59bc",
+        "android_client_info": {
+          "package_name": "com.example.gonullu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091069377781-9rp68qmbvombol0gu8t13hhhgnqbn0ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEOlEiArFGcsnsg-x1pXF91ax8ZX4jpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091069377781-9rp68qmbvombol0gu8t13hhhgnqbn0ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091069377781-jtpfqfgheqhvdj7qvqti3jrj46og1a39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gonullu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
